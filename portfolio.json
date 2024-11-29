@@ -1,0 +1,18 @@
+{
+    "about": "I am a software developer with a passion for creating user-friendly applications.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "A short description of project 1.",
+            "link": "https://github.com/user/project1",
+            "image": "project1.jpg"
+        },
+        {
+            "title": "Project 2",
+            "description": "A short description of project 2.",
+            "link": "https://github.com/user/project2",
+            "image": "project2.jpg"
+        }
+    ]
+}
